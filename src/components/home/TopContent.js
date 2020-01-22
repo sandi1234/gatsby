@@ -6,7 +6,7 @@ import {Container, Row, Col } from "react-bootstrap"
 
 const PrimaryTest = styled.div`
     margin-top: -100px;
-    height: 80vh;
+    height: 100vh;
 `;
 
 const MainContentWrapper = styled(Container)`
